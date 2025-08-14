@@ -39,3 +39,7 @@ QTrip Dynamic is the enhanced version of QTrip, where static pages are brought t
 - Integration with backend APIs  
 - Working with third-party JavaScript libraries  
 - Local storage for client-side persistence
+
+  Live Preview:(Backend deployed in Render, Frontend deployed in Vercel)
+  Bacekend:https://me-qtripdynamic-mpkb.onrender.com
+  Frontend: https://me-qtripdynamic-beta.vercel.app/
